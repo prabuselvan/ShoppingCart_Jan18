@@ -1,0 +1,12 @@
+.error-message{
+    color: red;
+    margin-top: 15px;
+}
+
+.shoppingForm-wrapper{
+    display: inline-flex;
+}
+.items-in-the-List {
+    color: red;
+    margin-top: 15px;
+}
